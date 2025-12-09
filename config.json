@@ -38,7 +38,7 @@
       "radio_url": "https://c22.radioboss.fm:18040/stream",
       "radio_name": "EMC Radio",
       "radio_genre": "The Voice of Abundance",
-      "song_metadata": "",true
+      "song_metadata": "false",
       "image_album_art": "false",
       "radio_image_url": "https://i.ibb.co/Z60JV7Lt/emc-logo-500.jpg",
       "radio_background": "false",
@@ -47,18 +47,27 @@
       "image_album_art_dynamic_background": "true"
     }
   ],
-  "video": [
+  
+  "video_streams": [
     {
-     "channel_name": "EBN TV",
+      "channel_name": "EBN TV",
       "channel_source": "youtube",
       "channel_url": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg/live",
       "channel_thumbnail": "https://i.ibb.co/PvVPftjF/eternallife.jpg",
-      "channel_description": "<p>Welcome to Eternal Life TV Stream.</p>",
-      "channel_vast_ads_tag_url": "
+      "channel_description": "<p>Welcome to EBN TV Stream.</p>",
+      "channel_vast_ads_tag_url": ""
+    },
+    {
+      "channel_name": "Dream TV",
+      "channel_source": "url",
+      "channel_url": "https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream_mid.m3u8",
+      "channel_thumbnail": "https://i.ibb.co/rf7stwRY/dreamtv.jpg",
+      "channel_description": "<p>Welcome to Dream TV Uganda Stream.</p>",
+      "channel_vast_ads_tag_url": ""
     }
   ],
   "socials": [
-   {
+    {
       "social_url": "https://solodroid.net?target=external",
       "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/ic_web.png",
       "social_name": "Website"
