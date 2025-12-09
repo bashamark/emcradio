@@ -49,33 +49,33 @@
   ],
   "video": [
     {
-      "channel_url": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg/live",
-      "channel_name": "EBN TV",
+     "channel_name": "EBN TV",
       "channel_source": "youtube",
-      "channel_thumbnail": "https://i.ibb.co/wZWgwzCn/ebn.jpg",
-      "channel_description": "<p>Welcome to EBN TV, Please note stream is only active when our youtube channel is live.</p>",
-      "channel_vast_ads_tag_url": ""
+      "channel_url": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg/live",
+      "channel_thumbnail": "https://i.ibb.co/PvVPftjF/eternallife.jpg",
+      "channel_description": "<p>Welcome to Eternal Life TV Stream.</p>",
+      "channel_vast_ads_tag_url": "
     }
   ],
   "socials": [
-    {
-      "social_url": "https://edenmiracleministries.org",
-      "social_icon": "https://i.ibb.co/RT1n9rQt/ic-web.png",
+   {
+      "social_url": "https://solodroid.net?target=external",
+      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/ic_web.png",
       "social_name": "Website"
     },
     {
-      "social_url": "https://www.facebook.com/edenmcm/",
-      "social_icon": "https://i.ibb.co/C3J6zJZP/ic-facebook.png",
+      "social_url": "https://facebook.com/solodroid.net?target=custom-tabs",
+      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/ic_facebook.png",
       "social_name": "Facebook"
     },
     {
-      "social_url": "https://x.com/EDENMIRACLEMIN1/status/1957006186181497200?target=custom-tabs",
+      "social_url": "https://twitter.com/solodroiddev?target=custom-tabs",
       "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/ic_twitter.png",
       "social_name": "Twitter"
     },
     {
-      "social_url": "https://www.instagram.com/edenmiracle_ministries/?hl=en",
-      "social_icon": "https://i.ibb.co/x8C7GNfy/ic-instagram.png",
+      "social_url": "https://instagram.com/solodroid.dev?target=custom-tabs",
+      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/ic_instagram.png",
       "social_name": "Instagram"
     }
   ],
