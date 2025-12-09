@@ -35,12 +35,12 @@
   "radio": [
     {
       "auto_play": "true",
-      "radio_url": "https://gospelradio.webusite.com/listen/mcf_casterfm/radio.mp3",
-      "radio_name": "MCF Radio",
-      "radio_genre": "Food for your soul",
-      "song_metadata": "false",
+      "radio_url": "https://c22.radioboss.fm:18040/stream",
+      "radio_name": "EMC Radio",
+      "radio_genre": "The Voice of Abundance",
+      "song_metadata": "",true
       "image_album_art": "false",
-      "radio_image_url": "https://i.ibb.co/MDcY0JHY/ic-launcher-1.png",
+      "radio_image_url": "https://i.ibb.co/Z60JV7Lt/emc-logo-500.jpg",
       "radio_background": "false",
       "radio_background_url": "https://raw.githubusercontent.com/envato-market/codecanyon/solodroid/the-single-stream/radio-background.jpg",
       "blur_radio_background": "true",
@@ -50,32 +50,32 @@
   "video": [
     {
       "channel_url": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg/live",
-      "channel_name": "Eternal TV Live",
+      "channel_name": "EBN TV",
       "channel_source": "youtube",
-      "channel_thumbnail": "https://i.ibb.co/PvVPftjF/eternallife.jpg",
+      "channel_thumbnail": "https://i.ibb.co/wZWgwzCn/ebn.jpg",
       "channel_description": "<p>Welcome to EBN TV, Please note stream is only active when our youtube channel is live.</p>",
-      "channel_vast_ads_tag_url": "https://stream.hydeinnovations.com/tvwest-flussonic/tracks-v2a1/mono.m3u8"
+      "channel_vast_ads_tag_url": ""
     }
   ],
   "socials": [
     {
-      "social_url": "https://solodroid.net?target=external",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/ic_web.png",
+      "social_url": "https://edenmiracleministries.org",
+      "social_icon": "https://i.ibb.co/RT1n9rQt/ic-web.png",
       "social_name": "Website"
     },
     {
-      "social_url": "https://facebook.com/solodroid.net?target=custom-tabs",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/ic_facebook.png",
+      "social_url": "https://www.facebook.com/edenmcm/",
+      "social_icon": "https://i.ibb.co/C3J6zJZP/ic-facebook.png",
       "social_name": "Facebook"
     },
     {
-      "social_url": "https://twitter.com/solodroiddev?target=custom-tabs",
+      "social_url": "https://x.com/EDENMIRACLEMIN1/status/1957006186181497200?target=custom-tabs",
       "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/ic_twitter.png",
       "social_name": "Twitter"
     },
     {
-      "social_url": "https://instagram.com/solodroid.dev?target=custom-tabs",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/ic_instagram.png",
+      "social_url": "https://www.instagram.com/edenmiracle_ministries/?hl=en",
+      "social_icon": "https://i.ibb.co/x8C7GNfy/ic-instagram.png",
       "social_name": "Instagram"
     }
   ],
